@@ -69,7 +69,7 @@
 
 96 = Otro
 
-**Techo = material que compone la mayoría del material del techo**
+#**Techo = material que compone la mayoría del material del techo**
 
 11 = Paja, hojas de palmera etc.
 
