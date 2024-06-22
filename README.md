@@ -69,7 +69,7 @@
 
 96 = Otro
 
-#**Techo = material que compone la mayoría del material del techo**
+**Techo = material que compone la mayoría del material del techo**
 
 11 = Paja, hojas de palmera etc.
 
@@ -91,7 +91,97 @@
 
 96 = Otro
 
- 
 
- 3 = Medio
+**Fuenteab = Fuente principal de abastecimeinto de agua para beber**
+
+11=dentro de la vivienda
+
+12=fuera de la vivienda, dentro del edificio
+
+13=grifo público
+
+21=pozo en la vivienda
+
+22=pozo público
+
+41=manantial
+
+43=río
+
+51=agua de lluvia
+
+61=camión cisterna
+
+71=agua embotellada
+
+96=otro
+
+
+**Fuenprin = Fuente principal de abastecimiento de agua en su hogar**
+
+11=dentro de la vivienda
+
+12=fuera de la vivienda, dentro del edificio
+
+13=grifo público
+
+21=pozo en la vivienda
+
+22=pozo público
+
+41=manantial
+
+43=río
+
+51=agua de lluvia
+
+61=camión cisterna
+
+71=agua embotellada
+
+96=otro
+
+
+**Servhig = Tipo de servicio higiénico dentro de su hogar**
+
+11=dentro de la vivienda
+
+12=fuera de la vivienda, dentro del edificio
+
+21=letrina ventilada
+
+22=pozo séptico
+
+23=latrina
+
+24=latrina mejorada
+
+31=río
+
+32=sin servicio
+
+96=otro
+
+
+**Sercom = El servicio es compartido con otros hogares**
+
+0=No
+
+1=Si
+
+
+**Aguabeb = Se hecha algo al agua para hacerla segura para beber**
+
+0=No
+
+1=Si
+
+
+**Aguadispo = El abastecimiento de agua para beber está disponible todo el día**
+
+0=No
+
+1=Si
+
+
 
