@@ -21,7 +21,7 @@ Categoría: categoría de gobierno
 
 Democracia plena = 1
 
-Democracia eficiente = 2
+Democracia deficiente = 2
 
 Régimen híbrido = 3
 
